@@ -1,0 +1,22 @@
+{
+  "name": "request-header-parser_api",
+  "version": "1.0.0",
+  "description": "Api project for FCC backend certification",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "npx nodemon app"
+  },
+  "keywords": [
+    "header-parser"
+  ],
+  "author": "Diego-EM",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
